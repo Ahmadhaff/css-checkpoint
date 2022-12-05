@@ -2,6 +2,7 @@
 @import url('https://fontawesome.com/icons/house?s=solid&f=classic');
 
 body{
+    background-color: rgb(2, 168, 99);
     margin: 0;
     padding: 0;
     font-family: 'Raleway' sans-serif;
@@ -28,6 +29,7 @@ body{
     border-radius: 0.50em;
     border-bottom: 1px solid rgb(54, 54, 53);
 }
+
 .lock{
     position: relative;
     top: 2px;
@@ -168,6 +170,7 @@ li{
     border-radius: 2em;
     font-weight: bold;
     font-size: 24px;
+    font-family: roboto;
     
 }
 
